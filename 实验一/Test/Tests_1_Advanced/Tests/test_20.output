@@ -1,0 +1,1195 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      ExtDecList (1)
+        VarDec (1)
+          ID: i_G12
+      SEMI
+    ExtDefList (5)
+      ExtDef (5)
+        Specifier (5)
+          TYPE: int
+        FunDec (5)
+          ID: i_func_49
+          LP
+          VarList (5)
+            ParamDec (5)
+              Specifier (5)
+                TYPE: float
+              VarDec (5)
+                ID: i_func_49_f_0
+          RP
+        CompSt (5)
+          LC
+          StmtList (6)
+            Stmt (6)
+              Exp (6)
+                MINUS
+                Exp (6)
+                  FLOAT: 7180088508416.000000
+              SEMI
+            StmtList (7)
+              Stmt (7)
+                Exp (7)
+                  Exp (7)
+                    LP
+                    Exp (7)
+                      Exp (7)
+                        ID: i_G12
+                      OR
+                      Exp (7)
+                        ID: i_G12
+                    RP
+                  AND
+                  Exp (7)
+                    LP
+                    Exp (7)
+                      Exp (7)
+                        ID: i_G12
+                      ASSIGNOP
+                      Exp (7)
+                        MINUS
+                        Exp (7)
+                          INT: 608113863
+                    RP
+                SEMI
+              StmtList (8)
+                Stmt (8)
+                  Exp (8)
+                    Exp (8)
+                      LP
+                      Exp (8)
+                        Exp (8)
+                          ID: i_func_49_f_0
+                        RELOP
+                        Exp (8)
+                          ID: i_G12
+                      RP
+                    AND
+                    Exp (8)
+                      LP
+                      Exp (8)
+                        NOT
+                        Exp (8)
+                          ID: i_G12
+                      RP
+                  SEMI
+                StmtList (9)
+                  Stmt (9)
+                    Exp (9)
+                      MINUS
+                      Exp (9)
+                        INT: 92869474
+                    SEMI
+                  StmtList (10)
+                    Stmt (10)
+                      Exp (10)
+                        Exp (10)
+                          LP
+                          Exp (10)
+                            Exp (10)
+                              ID: i_func_49_f_0
+                            PLUS
+                            Exp (10)
+                              ID: i_func_49_f_0
+                          RP
+                        DIV
+                        Exp (10)
+                          LP
+                          Exp (10)
+                            Exp (10)
+                              FLOAT: 0.000000
+                            STAR
+                            Exp (10)
+                              ID: i_func_49_f_0
+                          RP
+                      SEMI
+                    StmtList (11)
+                      Stmt (11)
+                        Exp (11)
+                          MINUS
+                          Exp (11)
+                            INT: 120725752
+                        SEMI
+                      StmtList (12)
+                        Stmt (12)
+                          Exp (12)
+                            Exp (12)
+                              LP
+                              Exp (12)
+                                Exp (12)
+                                  ID: i_func_49_f_0
+                                STAR
+                                Exp (12)
+                                  ID: i_func_49_f_0
+                              RP
+                            RELOP
+                            Exp (12)
+                              ID: i_func_49
+                              LP
+                              Args (12)
+                                Exp (12)
+                                  ID: i_func_49_f_0
+                              RP
+                          SEMI
+                        StmtList (13)
+                          Stmt (13)
+                            RETURN
+                            Exp (13)
+                              Exp (13)
+                                LP
+                                Exp (13)
+                                  Exp (13)
+                                    ID: i_func_49_f_0
+                                  STAR
+                                  Exp (13)
+                                    FLOAT: 60427731551548734948218710786048.000000
+                                RP
+                              RELOP
+                              Exp (13)
+                                LP
+                                Exp (13)
+                                  NOT
+                                  Exp (13)
+                                    FLOAT: 0.000000
+                                RP
+                            SEMI
+          RC
+      ExtDefList (16)
+        ExtDef (16)
+          Specifier (16)
+            TYPE: int
+          FunDec (16)
+            ID: i_func_51
+            LP
+            VarList (16)
+              ParamDec (16)
+                Specifier (16)
+                  TYPE: float
+                VarDec (16)
+                  ID: i_func_51_f_0
+              COMMA
+              VarList (16)
+                ParamDec (16)
+                  Specifier (16)
+                    TYPE: float
+                  VarDec (16)
+                    ID: i_func_51_f_1
+                COMMA
+                VarList (16)
+                  ParamDec (16)
+                    Specifier (16)
+                      TYPE: float
+                    VarDec (16)
+                      ID: i_func_51_f_2
+                  COMMA
+                  VarList (16)
+                    ParamDec (16)
+                      Specifier (16)
+                        TYPE: float
+                      VarDec (16)
+                        ID: i_func_51_f_3
+                    COMMA
+                    VarList (16)
+                      ParamDec (16)
+                        Specifier (16)
+                          TYPE: float
+                        VarDec (16)
+                          ID: i_func_51_f_4
+            RP
+          CompSt (16)
+            LC
+            StmtList (17)
+              Stmt (17)
+                Exp (17)
+                  Exp (17)
+                    LP
+                    Exp (17)
+                      Exp (17)
+                        ID: i_G12
+                      OR
+                      Exp (17)
+                        ID: i_G12
+                    RP
+                  MINUS
+                  Exp (17)
+                    LP
+                    Exp (17)
+                      Exp (17)
+                        ID: i_G12
+                      RELOP
+                      Exp (17)
+                        ID: i_func_51_f_4
+                    RP
+                SEMI
+              StmtList (18)
+                Stmt (18)
+                  Exp (18)
+                    Exp (18)
+                      ID: i_func_51_f_0
+                    RELOP
+                    Exp (18)
+                      LP
+                      Exp (18)
+                        Exp (18)
+                          ID: i_func_51_f_0
+                        RELOP
+                        Exp (18)
+                          MINUS
+                          Exp (18)
+                            INT: 1440204609
+                      RP
+                  SEMI
+                StmtList (19)
+                  Stmt (19)
+                    Exp (19)
+                      Exp (19)
+                        LP
+                        Exp (19)
+                          Exp (19)
+                            FLOAT: 0.000000
+                          PLUS
+                          Exp (19)
+                            ID: i_func_51_f_2
+                        RP
+                      PLUS
+                      Exp (19)
+                        LP
+                        Exp (19)
+                          Exp (19)
+                            ID: i_func_51_f_4
+                          STAR
+                          Exp (19)
+                            ID: i_func_51_f_3
+                        RP
+                    SEMI
+                  StmtList (20)
+                    Stmt (20)
+                      Exp (20)
+                        Exp (20)
+                          LP
+                          Exp (20)
+                            Exp (20)
+                              ID: i_G12
+                            RELOP
+                            Exp (20)
+                              ID: i_func_51_f_1
+                          RP
+                        RELOP
+                        Exp (20)
+                          MINUS
+                          Exp (20)
+                            INT: 2046106532
+                      SEMI
+                    StmtList (21)
+                      Stmt (21)
+                        Exp (21)
+                          Exp (21)
+                            LP
+                            Exp (21)
+                              Exp (21)
+                                ID: i_G12
+                              ASSIGNOP
+                              Exp (21)
+                                ID: i_G12
+                            RP
+                          RELOP
+                          Exp (21)
+                            LP
+                            Exp (21)
+                              Exp (21)
+                                ID: i_G12
+                              STAR
+                              Exp (21)
+                                MINUS
+                                Exp (21)
+                                  INT: 809050372
+                            RP
+                        SEMI
+                      StmtList (22)
+                        Stmt (22)
+                          Exp (22)
+                            Exp (22)
+                              LP
+                              Exp (22)
+                                Exp (22)
+                                  ID: i_func_51_f_0
+                                ASSIGNOP
+                                Exp (22)
+                                  FLOAT: 83309413531648.000000
+                              RP
+                            RELOP
+                            Exp (22)
+                              LP
+                              Exp (22)
+                                Exp (22)
+                                  ID: i_G12
+                                AND
+                                Exp (22)
+                                  ID: i_G12
+                              RP
+                          SEMI
+                        StmtList (23)
+                          Stmt (23)
+                            Exp (23)
+                              Exp (23)
+                                LP
+                                Exp (23)
+                                  Exp (23)
+                                    ID: i_G12
+                                  RELOP
+                                  Exp (23)
+                                    ID: i_func_51_f_0
+                                RP
+                              RELOP
+                              Exp (23)
+                                LP
+                                Exp (23)
+                                  Exp (23)
+                                    ID: i_G12
+                                  DIV
+                                  Exp (23)
+                                    ID: i_G12
+                                RP
+                            SEMI
+                          StmtList (24)
+                            Stmt (24)
+                              Exp (24)
+                                Exp (24)
+                                  LP
+                                  Exp (24)
+                                    Exp (24)
+                                      ID: i_G12
+                                    AND
+                                    Exp (24)
+                                      ID: i_G12
+                                  RP
+                                RELOP
+                                Exp (24)
+                                  LP
+                                  Exp (24)
+                                    Exp (24)
+                                      ID: i_G12
+                                    RELOP
+                                    Exp (24)
+                                      MINUS
+                                      Exp (24)
+                                        INT: 1072425575
+                                  RP
+                              SEMI
+                            StmtList (25)
+                              Stmt (25)
+                                Exp (25)
+                                  ID: i_func_51
+                                  LP
+                                  Args (25)
+                                    Exp (25)
+                                      LP
+                                      Exp (25)
+                                        Exp (25)
+                                          ID: i_func_51_f_4
+                                        MINUS
+                                        Exp (25)
+                                          FLOAT: 1453578052668539950364077571702784.000000
+                                      RP
+                                    COMMA
+                                    Args (25)
+                                      Exp (25)
+                                        LP
+                                        Exp (25)
+                                          Exp (25)
+                                            ID: i_func_51_f_3
+                                          STAR
+                                          Exp (25)
+                                            ID: i_func_51_f_0
+                                        RP
+                                      COMMA
+                                      Args (25)
+                                        Exp (25)
+                                          LP
+                                          Exp (25)
+                                            Exp (25)
+                                              ID: i_func_51_f_0
+                                            DIV
+                                            Exp (25)
+                                              ID: i_func_51_f_0
+                                          RP
+                                        COMMA
+                                        Args (25)
+                                          Exp (25)
+                                            FLOAT: 1468669955345703019479040.000000
+                                          COMMA
+                                          Args (25)
+                                            Exp (25)
+                                              LP
+                                              Exp (25)
+                                                Exp (25)
+                                                  ID: i_func_51_f_2
+                                                STAR
+                                                Exp (25)
+                                                  ID: i_func_51_f_1
+                                              RP
+                                  RP
+                                SEMI
+                              StmtList (26)
+                                Stmt (26)
+                                  RETURN
+                                  Exp (26)
+                                    NOT
+                                    Exp (26)
+                                      LP
+                                      Exp (26)
+                                        Exp (26)
+                                          ID: i_G12
+                                        DIV
+                                        Exp (26)
+                                          INT: 1337513669
+                                      RP
+                                  SEMI
+            RC
+        ExtDefList (29)
+          ExtDef (29)
+            Specifier (29)
+              TYPE: int
+            FunDec (29)
+              ID: top_caller
+              LP
+              RP
+            CompSt (29)
+              LC
+              DefList (30)
+                Def (30)
+                  Specifier (30)
+                    TYPE: float
+                  DecList (30)
+                    Dec (30)
+                      VarDec (30)
+                        ID: f_L0
+                  SEMI
+              StmtList (31)
+                Stmt (31)
+                  Exp (31)
+                    Exp (31)
+                      ID: f_L0
+                    ASSIGNOP
+                    Exp (31)
+                      MINUS
+                      Exp (31)
+                        INT: 1968480374
+                  SEMI
+                StmtList (32)
+                  Stmt (32)
+                    Exp (32)
+                      ID: i_G12
+                    SEMI
+                  StmtList (33)
+                    Stmt (33)
+                      RETURN
+                      Exp (33)
+                        Exp (33)
+                          LP
+                          Exp (33)
+                            Exp (33)
+                              ID: i_G12
+                            AND
+                            Exp (33)
+                              ID: i_G12
+                          RP
+                        RELOP
+                        Exp (33)
+                          LP
+                          Exp (33)
+                            Exp (33)
+                              ID: f_L0
+                            RELOP
+                            Exp (33)
+                              MINUS
+                              Exp (33)
+                                INT: 1021214116
+                          RP
+                      SEMI
+              RC
+          ExtDefList (36)
+            ExtDef (36)
+              Specifier (36)
+                TYPE: int
+              FunDec (36)
+                ID: i_func_50
+                LP
+                VarList (36)
+                  ParamDec (36)
+                    Specifier (36)
+                      TYPE: float
+                    VarDec (36)
+                      ID: i_func_50_f_0
+                RP
+              CompSt (36)
+                LC
+                StmtList (37)
+                  Stmt (37)
+                    Exp (37)
+                      Exp (37)
+                        ID: i_func_50_f_0
+                      ASSIGNOP
+                      Exp (37)
+                        LP
+                        Exp (37)
+                          Exp (37)
+                            MINUS
+                            Exp (37)
+                              INT: 1645177409
+                          RELOP
+                          Exp (37)
+                            MINUS
+                            Exp (37)
+                              INT: 1329058556
+                        RP
+                    SEMI
+                  StmtList (38)
+                    Stmt (38)
+                      Exp (38)
+                        Exp (38)
+                          LP
+                          Exp (38)
+                            Exp (38)
+                              ID: i_func_50_f_0
+                            MINUS
+                            Exp (38)
+                              ID: i_func_50_f_0
+                          RP
+                        PLUS
+                        Exp (38)
+                          LP
+                          Exp (38)
+                            MINUS
+                            Exp (38)
+                              Exp (38)
+                                FLOAT: 0.010221
+                              STAR
+                              Exp (38)
+                                ID: i_func_50_f_0
+                          RP
+                      SEMI
+                    StmtList (39)
+                      Stmt (39)
+                        Exp (39)
+                          Exp (39)
+                            LP
+                            Exp (39)
+                              Exp (39)
+                                ID: i_G12
+                              OR
+                              Exp (39)
+                                ID: i_G12
+                            RP
+                          RELOP
+                          Exp (39)
+                            LP
+                            Exp (39)
+                              Exp (39)
+                                ID: i_G12
+                              RELOP
+                              Exp (39)
+                                ID: i_func_50_f_0
+                            RP
+                        SEMI
+                      StmtList (40)
+                        Stmt (40)
+                          Exp (40)
+                            NOT
+                            Exp (40)
+                              LP
+                              Exp (40)
+                                Exp (40)
+                                  ID: i_G12
+                                AND
+                                Exp (40)
+                                  ID: i_G12
+                              RP
+                          SEMI
+                        StmtList (41)
+                          Stmt (41)
+                            Exp (41)
+                              Exp (41)
+                                ID: i_func_50_f_0
+                              RELOP
+                              Exp (41)
+                                LP
+                                Exp (41)
+                                  Exp (41)
+                                    ID: i_G12
+                                  STAR
+                                  Exp (41)
+                                    ID: i_G12
+                                RP
+                            SEMI
+                          StmtList (42)
+                            Stmt (42)
+                              IF
+                              LP
+                              Exp (42)
+                                Exp (42)
+                                  LP
+                                  Exp (42)
+                                    Exp (42)
+                                      ID: i_func_50_f_0
+                                    MINUS
+                                    Exp (42)
+                                      ID: i_func_50_f_0
+                                  RP
+                                RELOP
+                                Exp (42)
+                                  LP
+                                  Exp (42)
+                                    Exp (42)
+                                      ID: i_G12
+                                    DIV
+                                    Exp (42)
+                                      ID: i_G12
+                                  RP
+                              RP
+                              Stmt (42)
+                                CompSt (42)
+                                  LC
+                                  StmtList (43)
+                                    Stmt (43)
+                                      Exp (43)
+                                        Exp (43)
+                                          LP
+                                          Exp (43)
+                                            Exp (43)
+                                              ID: i_G12
+                                            RELOP
+                                            Exp (43)
+                                              ID: i_G12
+                                          RP
+                                        MINUS
+                                        Exp (43)
+                                          LP
+                                          Exp (43)
+                                            Exp (43)
+                                              ID: i_func_50_f_0
+                                            RELOP
+                                            Exp (43)
+                                              MINUS
+                                              Exp (43)
+                                                FLOAT: inf
+                                          RP
+                                      SEMI
+                                    StmtList (44)
+                                      Stmt (44)
+                                        Exp (44)
+                                          Exp (44)
+                                            LP
+                                            Exp (44)
+                                              Exp (44)
+                                                ID: i_func_50_f_0
+                                              PLUS
+                                              Exp (44)
+                                                FLOAT: 0.000000
+                                            RP
+                                          RELOP
+                                          Exp (44)
+                                            LP
+                                            Exp (44)
+                                              Exp (44)
+                                                ID: i_G12
+                                              RELOP
+                                              Exp (44)
+                                                ID: i_G12
+                                            RP
+                                        SEMI
+                                      StmtList (45)
+                                        Stmt (45)
+                                          Exp (45)
+                                            Exp (45)
+                                              LP
+                                              Exp (45)
+                                                Exp (45)
+                                                  ID: i_G12
+                                                PLUS
+                                                Exp (45)
+                                                  ID: i_G12
+                                              RP
+                                            OR
+                                            Exp (45)
+                                              LP
+                                              Exp (45)
+                                                Exp (45)
+                                                  ID: i_G12
+                                                RELOP
+                                                Exp (45)
+                                                  ID: i_func_50_f_0
+                                              RP
+                                          SEMI
+                                        StmtList (46)
+                                          Stmt (46)
+                                            Exp (46)
+                                              Exp (46)
+                                                ID: i_func_50_f_0
+                                              RELOP
+                                              Exp (46)
+                                                LP
+                                                Exp (46)
+                                                  Exp (46)
+                                                    ID: i_G12
+                                                  RELOP
+                                                  Exp (46)
+                                                    ID: i_G12
+                                                RP
+                                            SEMI
+                                          StmtList (47)
+                                            Stmt (47)
+                                              Exp (47)
+                                                Exp (47)
+                                                  LP
+                                                  Exp (47)
+                                                    Exp (47)
+                                                      ID: i_func_50_f_0
+                                                    MINUS
+                                                    Exp (47)
+                                                      ID: i_func_50_f_0
+                                                  RP
+                                                PLUS
+                                                Exp (47)
+                                                  LP
+                                                  Exp (47)
+                                                    Exp (47)
+                                                      ID: i_func_50_f_0
+                                                    MINUS
+                                                    Exp (47)
+                                                      ID: i_func_50_f_0
+                                                  RP
+                                              SEMI
+                                            StmtList (48)
+                                              Stmt (48)
+                                                RETURN
+                                                Exp (48)
+                                                  NOT
+                                                  Exp (48)
+                                                    LP
+                                                    Exp (48)
+                                                      Exp (48)
+                                                        ID: i_G12
+                                                      OR
+                                                      Exp (48)
+                                                        ID: i_G12
+                                                    RP
+                                                SEMI
+                                              StmtList (49)
+                                                Stmt (49)
+                                                  Exp (49)
+                                                    Exp (49)
+                                                      LP
+                                                      Exp (49)
+                                                        Exp (49)
+                                                          ID: i_G12
+                                                        AND
+                                                        Exp (49)
+                                                          ID: i_G12
+                                                      RP
+                                                    RELOP
+                                                    Exp (49)
+                                                      LP
+                                                      Exp (49)
+                                                        Exp (49)
+                                                          ID: i_func_50_f_0
+                                                        RELOP
+                                                        Exp (49)
+                                                          ID: i_G12
+                                                      RP
+                                                  SEMI
+                                                StmtList (50)
+                                                  Stmt (50)
+                                                    Exp (50)
+                                                      Exp (50)
+                                                        FLOAT: 0.000000
+                                                      RELOP
+                                                      Exp (50)
+                                                        LP
+                                                        Exp (50)
+                                                          Exp (50)
+                                                            ID: i_G12
+                                                          AND
+                                                          Exp (50)
+                                                            ID: i_G12
+                                                        RP
+                                                    SEMI
+                                                  StmtList (51)
+                                                    Stmt (51)
+                                                      Exp (51)
+                                                        Exp (51)
+                                                          LP
+                                                          Exp (51)
+                                                            Exp (51)
+                                                              ID: i_G12
+                                                            PLUS
+                                                            Exp (51)
+                                                              ID: i_G12
+                                                          RP
+                                                        AND
+                                                        Exp (51)
+                                                          LP
+                                                          Exp (51)
+                                                            Exp (51)
+                                                              ID: i_G12
+                                                            DIV
+                                                            Exp (51)
+                                                              ID: i_G12
+                                                          RP
+                                                      SEMI
+                                  RC
+                              ELSE
+                              Stmt (53)
+                                CompSt (53)
+                                  LC
+                                  StmtList (54)
+                                    Stmt (54)
+                                      Exp (54)
+                                        Exp (54)
+                                          LP
+                                          Exp (54)
+                                            Exp (54)
+                                              ID: i_func_50_f_0
+                                            DIV
+                                            Exp (54)
+                                              ID: i_func_50_f_0
+                                          RP
+                                        DIV
+                                        Exp (54)
+                                          FLOAT: 365932896.000000
+                                      SEMI
+                                    StmtList (55)
+                                      Stmt (55)
+                                        Exp (55)
+                                          Exp (55)
+                                            LP
+                                            Exp (55)
+                                              NOT
+                                              Exp (55)
+                                                INT: 1815383754
+                                            RP
+                                          OR
+                                          Exp (55)
+                                            LP
+                                            Exp (55)
+                                              Exp (55)
+                                                ID: i_func_50_f_0
+                                              RELOP
+                                              Exp (55)
+                                                ID: i_G12
+                                            RP
+                                        SEMI
+                                      StmtList (56)
+                                        Stmt (56)
+                                          CompSt (56)
+                                            LC
+                                            StmtList (57)
+                                              Stmt (57)
+                                                Exp (57)
+                                                  Exp (57)
+                                                    LP
+                                                    Exp (57)
+                                                      Exp (57)
+                                                        ID: i_func_50_f_0
+                                                      RELOP
+                                                      Exp (57)
+                                                        ID: i_G12
+                                                    RP
+                                                  RELOP
+                                                  Exp (57)
+                                                    LP
+                                                    Exp (57)
+                                                      Exp (57)
+                                                        ID: i_func_50_f_0
+                                                      RELOP
+                                                      Exp (57)
+                                                        ID: i_func_50_f_0
+                                                    RP
+                                                SEMI
+                                            RC
+                                        StmtList (59)
+                                          Stmt (59)
+                                            Exp (59)
+                                              Exp (59)
+                                                LP
+                                                Exp (59)
+                                                  Exp (59)
+                                                    ID: i_func_50_f_0
+                                                  STAR
+                                                  Exp (59)
+                                                    MINUS
+                                                    Exp (59)
+                                                      FLOAT: 0.000000
+                                                RP
+                                              STAR
+                                              Exp (59)
+                                                LP
+                                                Exp (59)
+                                                  Exp (59)
+                                                    ID: i_func_50_f_0
+                                                  PLUS
+                                                  Exp (59)
+                                                    ID: i_func_50_f_0
+                                                RP
+                                            SEMI
+                                          StmtList (60)
+                                            Stmt (60)
+                                              Exp (60)
+                                                Exp (60)
+                                                  LP
+                                                  Exp (60)
+                                                    Exp (60)
+                                                      ID: i_func_50_f_0
+                                                    PLUS
+                                                    Exp (60)
+                                                      ID: i_func_50_f_0
+                                                  RP
+                                                PLUS
+                                                Exp (60)
+                                                  LP
+                                                  Exp (60)
+                                                    Exp (60)
+                                                      ID: i_func_50_f_0
+                                                    STAR
+                                                    Exp (60)
+                                                      ID: i_func_50_f_0
+                                                  RP
+                                              SEMI
+                                            StmtList (61)
+                                              Stmt (61)
+                                                Exp (61)
+                                                  Exp (61)
+                                                    LP
+                                                    Exp (61)
+                                                      Exp (61)
+                                                        ID: i_func_50_f_0
+                                                      RELOP
+                                                      Exp (61)
+                                                        ID: i_G12
+                                                    RP
+                                                  RELOP
+                                                  Exp (61)
+                                                    LP
+                                                    Exp (61)
+                                                      Exp (61)
+                                                        ID: i_G12
+                                                      RELOP
+                                                      Exp (61)
+                                                        ID: i_G12
+                                                    RP
+                                                SEMI
+                                              StmtList (62)
+                                                Stmt (62)
+                                                  Exp (62)
+                                                    Exp (62)
+                                                      LP
+                                                      Exp (62)
+                                                        Exp (62)
+                                                          ID: i_func_50_f_0
+                                                        RELOP
+                                                        Exp (62)
+                                                          FLOAT: 614638821875805847552.000000
+                                                      RP
+                                                    RELOP
+                                                    Exp (62)
+                                                      LP
+                                                      Exp (62)
+                                                        Exp (62)
+                                                          ID: i_G12
+                                                        RELOP
+                                                        Exp (62)
+                                                          ID: i_G12
+                                                      RP
+                                                  SEMI
+                                                StmtList (63)
+                                                  Stmt (63)
+                                                    Exp (63)
+                                                      NOT
+                                                      Exp (63)
+                                                        LP
+                                                        Exp (63)
+                                                          Exp (63)
+                                                            ID: i_func_50_f_0
+                                                          MINUS
+                                                          Exp (63)
+                                                            ID: i_func_50_f_0
+                                                        RP
+                                                    SEMI
+                                                  StmtList (64)
+                                                    Stmt (64)
+                                                      Exp (64)
+                                                        Exp (64)
+                                                          ID: i_func_50_f_0
+                                                        ASSIGNOP
+                                                        Exp (64)
+                                                          LP
+                                                          Exp (64)
+                                                            Exp (64)
+                                                              ID: i_func_50_f_0
+                                                            DIV
+                                                            Exp (64)
+                                                              ID: i_func_50_f_0
+                                                          RP
+                                                      SEMI
+                                  RC
+                            StmtList (66)
+                              Stmt (66)
+                                Exp (66)
+                                  Exp (66)
+                                    LP
+                                    Exp (66)
+                                      Exp (66)
+                                        ID: i_func_50_f_0
+                                      RELOP
+                                      Exp (66)
+                                        ID: i_func_50_f_0
+                                    RP
+                                  AND
+                                  Exp (66)
+                                    LP
+                                    Exp (66)
+                                      Exp (66)
+                                        ID: i_func_50_f_0
+                                      RELOP
+                                      Exp (66)
+                                        INT: 942791910
+                                    RP
+                                SEMI
+                              StmtList (67)
+                                Stmt (67)
+                                  Exp (67)
+                                    Exp (67)
+                                      LP
+                                      Exp (67)
+                                        Exp (67)
+                                          ID: i_func_50_f_0
+                                        DIV
+                                        Exp (67)
+                                          ID: i_func_50_f_0
+                                      RP
+                                    PLUS
+                                    Exp (67)
+                                      LP
+                                      Exp (67)
+                                        Exp (67)
+                                          FLOAT: 33885349921203176085651456.000000
+                                        PLUS
+                                        Exp (67)
+                                          ID: i_func_50_f_0
+                                      RP
+                                  SEMI
+                                StmtList (68)
+                                  Stmt (68)
+                                    Exp (68)
+                                      ID: i_func_49
+                                      LP
+                                      Args (68)
+                                        Exp (68)
+                                          MINUS
+                                          Exp (68)
+                                            FLOAT: 276835975366045020676279521435975680.000000
+                                      RP
+                                    SEMI
+                                  StmtList (69)
+                                    Stmt (69)
+                                      Exp (69)
+                                        Exp (69)
+                                          LP
+                                          Exp (69)
+                                            Exp (69)
+                                              ID: i_func_50_f_0
+                                            RELOP
+                                            Exp (69)
+                                              ID: i_G12
+                                          RP
+                                        RELOP
+                                        Exp (69)
+                                          LP
+                                          Exp (69)
+                                            Exp (69)
+                                              ID: i_G12
+                                            RELOP
+                                            Exp (69)
+                                              ID: i_G12
+                                          RP
+                                      SEMI
+                                    StmtList (70)
+                                      Stmt (70)
+                                        RETURN
+                                        Exp (70)
+                                          Exp (70)
+                                            LP
+                                            Exp (70)
+                                              Exp (70)
+                                                ID: i_G12
+                                              PLUS
+                                              Exp (70)
+                                                ID: i_G12
+                                            RP
+                                          RELOP
+                                          Exp (70)
+                                            LP
+                                            Exp (70)
+                                              NOT
+                                              Exp (70)
+                                                ID: i_func_50_f_0
+                                            RP
+                                        SEMI
+                RC
+            ExtDefList (73)
+              ExtDef (73)
+                Specifier (73)
+                  TYPE: int
+                FunDec (73)
+                  ID: initialize_global_objects
+                  LP
+                  RP
+                CompSt (73)
+                  LC
+                  StmtList (74)
+                    Stmt (74)
+                      Exp (74)
+                        Exp (74)
+                          ID: i_G12
+                        ASSIGNOP
+                        Exp (74)
+                          Exp (74)
+                            INT: 1818689229
+                          OR
+                          Exp (74)
+                            INT: 1619101082
+                      SEMI
+                    StmtList (75)
+                      Stmt (75)
+                        RETURN
+                        Exp (75)
+                          INT: 0
+                        SEMI
+                  RC
+              ExtDefList (78)
+                ExtDef (78)
+                  Specifier (78)
+                    TYPE: int
+                  FunDec (78)
+                    ID: main
+                    LP
+                    RP
+                  CompSt (78)
+                    LC
+                    StmtList (79)
+                      Stmt (79)
+                        Exp (79)
+                          ID: initialize_global_objects
+                          LP
+                          RP
+                        SEMI
+                      StmtList (80)
+                        Stmt (80)
+                          RETURN
+                          Exp (80)
+                            INT: 0
+                          SEMI
+                    RC

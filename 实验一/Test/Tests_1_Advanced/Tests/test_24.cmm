@@ -1,0 +1,92 @@
+int i_G15;
+
+
+
+int i_func_57(int i_func_57_i_0, float i_func_57_f_0, float i_func_57_f_1, float i_func_57_f_2) {
+  (0.000000 + i_func_57_f_1) + (i_func_57_f_1 - i_func_57_f_2);
+  4.112421e36 < (i_func_57_i_0 < i_func_57_i_0);
+  i_func_57_f_2;
+  i_func_56((i_G15 - i_func_57_i_0), (i_func_57_f_0 / i_func_57_f_0), (i_func_57_f_1 + i_func_57_f_2), (i_func_57_f_2 <= i_func_57_f_0));
+  return -1444468930;
+}
+
+int i_func_56(int i_func_56_i_0, float i_func_56_f_0, float i_func_56_f_1, int i_func_56_i_1) {
+  (i_func_56_f_1 + i_func_56_f_1) - (i_func_56_f_0 * i_func_56_f_1);
+  (-5.408324e03 <= i_func_56_f_0) == (i_func_56_i_1 - i_G15);
+  i_G15;
+  i_func_56_i_0 = (i_func_56_f_0 = i_func_56_i_0);
+  (i_G15 && i_G15) && i_func_56_i_0;
+  (i_G15 * i_G15) && i_func_56_i_1;
+  (i_func_56_f_0 + i_func_56_f_1) / (i_func_56_f_0 - i_func_56_f_1);
+  return (-1413840836 + i_func_56_i_0) != (i_func_56_i_0 >= i_func_56_f_0);
+}
+
+int top_caller() {
+  float f_L3;
+  f_L3 = -964918645;
+  {
+    float f_L2;
+    f_L2 = 378131759;
+    i_func_55();
+    (i_G15 - i_G15) == (i_G15 / i_G15);
+    !i_func_57(i_G15, f_L2, f_L2, 1.067540e34);
+    i_G15 = i_func_57(-2088679232, f_L2, 3.161306e27, f_L2);
+    i_G15 > (1437302798 || i_G15);
+    (i_G15 = f_L2) >= i_func_57(i_G15, f_L2, f_L2, f_L2);
+    (f_L2 - f_L2) > (i_G15 <= i_G15);
+  }
+  (5929439112200192.000000 < f_L3) && (-1769902130 <= -0.000000);
+  (i_G15 - i_G15) || (!i_G15);
+  while (4.221281e36 >= f_L3) {
+    -2025560225 < (i_G15 / i_G15);
+    if ((i_G15 = i_G15) <= (i_G15 <= f_L3)) {
+      i_G15 + (!i_G15);
+      (744033314 <= 478433915) == (i_G15 < f_L3);
+      (i_G15 || i_G15) <= (i_G15 == f_L3);
+    }
+    else {
+      -0.000000 <= (0.000000 * f_L3);
+      i_G15;
+      (i_G15 * i_G15) / (i_G15 - i_G15);
+      -8.428513e08 + (-7662145182831264923648.000000 - f_L3);
+      !(f_L3 / f_L3);
+      (i_G15 || i_G15) && (f_L3 >= i_G15);
+      (i_G15 && i_G15) - (f_L3 < f_L3);
+      (-8090880 / i_G15) || i_func_55();
+      (0.000000 * f_L3) != (!f_L3);
+    }
+  }
+  (f_L3 = f_L3) < (i_G15 || i_G15);
+  return (i_G15 && i_G15) >= (!i_G15);
+  574434824;
+  !f_L3;
+  !(f_L3 >= f_L3);
+  return (f_L3 = 0.000023) >= (f_L3 >= i_G15);
+}
+
+int i_func_55() {
+  float f_L1;
+  f_L1 = 920832131;
+  (f_L1 == 1.351238e37) == (i_G15 && i_G15);
+  (i_G15 || i_G15) * i_func_55();
+  (f_L1 - f_L1) == i_func_55();
+  while (i_G15 / (i_G15 - i_G15)) {
+    (f_L1 != f_L1) / (i_G15 + i_G15);
+  }
+  (i_G15 * i_G15) && -1380839401;
+  1441941131;
+  (i_G15 - i_G15) * (i_G15 || i_G15);
+  i_G15;
+  !(i_G15 || i_G15);
+  return (473996453 - i_G15) || (!f_L1);
+}
+
+int initialize_global_objects() {
+  i_G15 = 160470956;
+  return 0;
+}
+
+int main() {
+  initialize_global_objects();
+  return 0;
+}

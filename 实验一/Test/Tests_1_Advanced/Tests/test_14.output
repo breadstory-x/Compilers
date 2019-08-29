@@ -1,0 +1,876 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          OptTag (1)
+            ID: S23
+          LC
+          DefList (2)
+            Def (2)
+              Specifier (2)
+                TYPE: int
+              DecList (2)
+                Dec (2)
+                  VarDec (2)
+                    ID: S23_m0_i
+              SEMI
+            DefList (3)
+              Def (3)
+                Specifier (3)
+                  TYPE: int
+                DecList (3)
+                  Dec (3)
+                    VarDec (3)
+                      VarDec (3)
+                        ID: S23_m1_a2_i
+                      LB
+                      INT: 2
+                      RB
+                SEMI
+              DefList (4)
+                Def (4)
+                  Specifier (4)
+                    TYPE: int
+                  DecList (4)
+                    Dec (4)
+                      VarDec (4)
+                        ID: S23_m2_i
+                  SEMI
+                DefList (5)
+                  Def (5)
+                    Specifier (5)
+                      TYPE: int
+                    DecList (5)
+                      Dec (5)
+                        VarDec (5)
+                          ID: S23_m3_i
+                    SEMI
+                  DefList (6)
+                    Def (6)
+                      Specifier (6)
+                        TYPE: int
+                      DecList (6)
+                        Dec (6)
+                          VarDec (6)
+                            VarDec (6)
+                              VarDec (6)
+                                ID: S23_m4_a1_a2_i
+                              LB
+                              INT: 1
+                              RB
+                            LB
+                            INT: 2
+                            RB
+                      SEMI
+                    DefList (7)
+                      Def (7)
+                        Specifier (7)
+                          TYPE: int
+                        DecList (7)
+                          Dec (7)
+                            VarDec (7)
+                              ID: S23_m5_i
+                        SEMI
+                      DefList (8)
+                        Def (8)
+                          Specifier (8)
+                            TYPE: int
+                          DecList (8)
+                            Dec (8)
+                              VarDec (8)
+                                ID: S23_m6_i
+                          SEMI
+          RC
+      SEMI
+    ExtDefList (11)
+      ExtDef (11)
+        Specifier (11)
+          TYPE: int
+        ExtDecList (11)
+          VarDec (11)
+            ID: i_G3
+        SEMI
+      ExtDefList (15)
+        ExtDef (15)
+          Specifier (15)
+            TYPE: int
+          FunDec (15)
+            ID: top_caller
+            LP
+            RP
+          CompSt (15)
+            LC
+            DefList (16)
+              Def (16)
+                Specifier (16)
+                  StructSpecifier (16)
+                    STRUCT
+                    Tag (16)
+                      ID: S23
+                DecList (16)
+                  Dec (16)
+                    VarDec (16)
+                      ID: S23_L0
+                SEMI
+            StmtList (17)
+              Stmt (17)
+                Exp (17)
+                  Exp (17)
+                    Exp (17)
+                      ID: S23_L0
+                    DOT
+                    ID: S23_m6_i
+                  ASSIGNOP
+                  Exp (17)
+                    MINUS
+                    Exp (17)
+                      INT: 1229366252
+                SEMI
+              StmtList (18)
+                Stmt (18)
+                  Exp (18)
+                    Exp (18)
+                      Exp (18)
+                        ID: S23_L0
+                      DOT
+                      ID: S23_m5_i
+                    ASSIGNOP
+                    Exp (18)
+                      MINUS
+                      Exp (18)
+                        INT: 2083546816
+                  SEMI
+                StmtList (19)
+                  Stmt (19)
+                    Exp (19)
+                      Exp (19)
+                        Exp (19)
+                          Exp (19)
+                            Exp (19)
+                              ID: S23_L0
+                            DOT
+                            ID: S23_m4_a1_a2_i
+                          LB
+                          Exp (19)
+                            INT: 0
+                          RB
+                        LB
+                        Exp (19)
+                          INT: 1
+                        RB
+                      ASSIGNOP
+                      Exp (19)
+                        INT: 1443947903
+                    SEMI
+                  StmtList (20)
+                    Stmt (20)
+                      Exp (20)
+                        Exp (20)
+                          Exp (20)
+                            Exp (20)
+                              Exp (20)
+                                ID: S23_L0
+                              DOT
+                              ID: S23_m4_a1_a2_i
+                            LB
+                            Exp (20)
+                              INT: 0
+                            RB
+                          LB
+                          Exp (20)
+                            INT: 0
+                          RB
+                        ASSIGNOP
+                        Exp (20)
+                          MINUS
+                          Exp (20)
+                            FLOAT: 66130078507483485896720571326005248.000000
+                      SEMI
+                    StmtList (21)
+                      Stmt (21)
+                        Exp (21)
+                          Exp (21)
+                            Exp (21)
+                              ID: S23_L0
+                            DOT
+                            ID: S23_m3_i
+                          ASSIGNOP
+                          Exp (21)
+                            INT: 1399870974
+                        SEMI
+                      StmtList (22)
+                        Stmt (22)
+                          Exp (22)
+                            Exp (22)
+                              Exp (22)
+                                ID: S23_L0
+                              DOT
+                              ID: S23_m2_i
+                            ASSIGNOP
+                            Exp (22)
+                              FLOAT: 7339641886989700035243678548099072.000000
+                          SEMI
+                        StmtList (23)
+                          Stmt (23)
+                            Exp (23)
+                              Exp (23)
+                                Exp (23)
+                                  Exp (23)
+                                    ID: S23_L0
+                                  DOT
+                                  ID: S23_m1_a2_i
+                                LB
+                                Exp (23)
+                                  INT: 1
+                                RB
+                              ASSIGNOP
+                              Exp (23)
+                                INT: 1277256280
+                            SEMI
+                          StmtList (24)
+                            Stmt (24)
+                              Exp (24)
+                                Exp (24)
+                                  Exp (24)
+                                    Exp (24)
+                                      ID: S23_L0
+                                    DOT
+                                    ID: S23_m1_a2_i
+                                  LB
+                                  Exp (24)
+                                    INT: 0
+                                  RB
+                                ASSIGNOP
+                                Exp (24)
+                                  INT: 1971272412
+                              SEMI
+                            StmtList (25)
+                              Stmt (25)
+                                Exp (25)
+                                  Exp (25)
+                                    Exp (25)
+                                      ID: S23_L0
+                                    DOT
+                                    ID: S23_m0_i
+                                  ASSIGNOP
+                                  Exp (25)
+                                    INT: 1835617793
+                                SEMI
+                              StmtList (26)
+                                Stmt (26)
+                                  Exp (26)
+                                    Exp (26)
+                                      ID: top_caller
+                                      LP
+                                      RP
+                                    PLUS
+                                    Exp (26)
+                                      LP
+                                      Exp (26)
+                                        Exp (26)
+                                          Exp (26)
+                                            ID: S23_L0
+                                          DOT
+                                          ID: S23_m6_i
+                                        DIV
+                                        Exp (26)
+                                          Exp (26)
+                                            ID: S23_L0
+                                          DOT
+                                          ID: S23_m3_i
+                                      RP
+                                  SEMI
+                                StmtList (27)
+                                  Stmt (27)
+                                    Exp (27)
+                                      Exp (27)
+                                        LP
+                                        Exp (27)
+                                          Exp (27)
+                                            Exp (27)
+                                              ID: S23_L0
+                                            DOT
+                                            ID: S23_m5_i
+                                          MINUS
+                                          Exp (27)
+                                            Exp (27)
+                                              ID: S23_L0
+                                            DOT
+                                            ID: S23_m5_i
+                                        RP
+                                      RELOP
+                                      Exp (27)
+                                        LP
+                                        Exp (27)
+                                          NOT
+                                          Exp (27)
+                                            FLOAT: 0.000000
+                                        RP
+                                    SEMI
+                                  StmtList (28)
+                                    Stmt (28)
+                                      Exp (28)
+                                        Exp (28)
+                                          LP
+                                          Exp (28)
+                                            Exp (28)
+                                              Exp (28)
+                                                ID: S23_L0
+                                              DOT
+                                              ID: S23_m6_i
+                                            RELOP
+                                            Exp (28)
+                                              Exp (28)
+                                                ID: S23_L0
+                                              DOT
+                                              ID: S23_m2_i
+                                          RP
+                                        PLUS
+                                        Exp (28)
+                                          MINUS
+                                          Exp (28)
+                                            INT: 1267936822
+                                      SEMI
+                                    StmtList (29)
+                                      Stmt (29)
+                                        Exp (29)
+                                          Exp (29)
+                                            LP
+                                            Exp (29)
+                                              Exp (29)
+                                                Exp (29)
+                                                  ID: S23_L0
+                                                DOT
+                                                ID: S23_m5_i
+                                              MINUS
+                                              Exp (29)
+                                                Exp (29)
+                                                  ID: S23_L0
+                                                DOT
+                                                ID: S23_m0_i
+                                            RP
+                                          RELOP
+                                          Exp (29)
+                                            LP
+                                            Exp (29)
+                                              Exp (29)
+                                                Exp (29)
+                                                  ID: S23_L0
+                                                DOT
+                                                ID: S23_m0_i
+                                              OR
+                                              Exp (29)
+                                                Exp (29)
+                                                  ID: S23_L0
+                                                DOT
+                                                ID: S23_m0_i
+                                            RP
+                                        SEMI
+                                      StmtList (30)
+                                        Stmt (30)
+                                          Exp (30)
+                                            ID: i_func_20
+                                            LP
+                                            Args (30)
+                                              Exp (30)
+                                                ID: S23_L0
+                                              COMMA
+                                              Args (30)
+                                                Exp (30)
+                                                  Exp (30)
+                                                    ID: S23_L0
+                                                  DOT
+                                                  ID: S23_m5_i
+                                                COMMA
+                                                Args (30)
+                                                  Exp (30)
+                                                    LP
+                                                    Exp (30)
+                                                      Exp (30)
+                                                        ID: S23_L0
+                                                      ASSIGNOP
+                                                      Exp (30)
+                                                        LP
+                                                        Exp (30)
+                                                          Exp (30)
+                                                            ID: S23_L0
+                                                          ASSIGNOP
+                                                          Exp (30)
+                                                            ID: S23_L0
+                                                        RP
+                                                    RP
+                                                  COMMA
+                                                  Args (30)
+                                                    Exp (30)
+                                                      LP
+                                                      Exp (30)
+                                                        Exp (30)
+                                                          ID: S23_L0
+                                                        ASSIGNOP
+                                                        Exp (30)
+                                                          LP
+                                                          Exp (30)
+                                                            Exp (30)
+                                                              ID: S23_L0
+                                                            ASSIGNOP
+                                                            Exp (30)
+                                                              ID: S23_L0
+                                                          RP
+                                                      RP
+                                                    COMMA
+                                                    Args (30)
+                                                      Exp (30)
+                                                        LP
+                                                        Exp (30)
+                                                          Exp (30)
+                                                            ID: S23_L0
+                                                          ASSIGNOP
+                                                          Exp (30)
+                                                            LP
+                                                            Exp (30)
+                                                              Exp (30)
+                                                                ID: S23_L0
+                                                              ASSIGNOP
+                                                              Exp (30)
+                                                                LP
+                                                                Exp (30)
+                                                                  Exp (30)
+                                                                    ID: S23_L0
+                                                                  ASSIGNOP
+                                                                  Exp (30)
+                                                                    LP
+                                                                    Exp (30)
+                                                                      Exp (30)
+                                                                        ID: S23_L0
+                                                                      ASSIGNOP
+                                                                      Exp (30)
+                                                                        LP
+                                                                        Exp (30)
+                                                                          Exp (30)
+                                                                            ID: S23_L0
+                                                                          ASSIGNOP
+                                                                          Exp (30)
+                                                                            LP
+                                                                            Exp (30)
+                                                                              Exp (30)
+                                                                                ID: S23_L0
+                                                                              ASSIGNOP
+                                                                              Exp (30)
+                                                                                LP
+                                                                                Exp (30)
+                                                                                  Exp (30)
+                                                                                    ID: S23_L0
+                                                                                  ASSIGNOP
+                                                                                  Exp (30)
+                                                                                    ID: S23_L0
+                                                                                RP
+                                                                            RP
+                                                                        RP
+                                                                    RP
+                                                                RP
+                                                            RP
+                                                        RP
+                                            RP
+                                          SEMI
+                                        StmtList (31)
+                                          Stmt (31)
+                                            Exp (31)
+                                              Exp (31)
+                                                LP
+                                                Exp (31)
+                                                  Exp (31)
+                                                    MINUS
+                                                    Exp (31)
+                                                      FLOAT: 183929568.000000
+                                                  RELOP
+                                                  Exp (31)
+                                                    Exp (31)
+                                                      ID: S23_L0
+                                                    DOT
+                                                    ID: S23_m0_i
+                                                RP
+                                              DIV
+                                              Exp (31)
+                                                LP
+                                                Exp (31)
+                                                  Exp (31)
+                                                    Exp (31)
+                                                      ID: S23_L0
+                                                    DOT
+                                                    ID: S23_m3_i
+                                                  RELOP
+                                                  Exp (31)
+                                                    Exp (31)
+                                                      ID: S23_L0
+                                                    DOT
+                                                    ID: S23_m3_i
+                                                RP
+                                            SEMI
+                                          StmtList (32)
+                                            Stmt (32)
+                                              Exp (32)
+                                                Exp (32)
+                                                  LP
+                                                  Exp (32)
+                                                    Exp (32)
+                                                      Exp (32)
+                                                        ID: S23_L0
+                                                      DOT
+                                                      ID: S23_m0_i
+                                                    ASSIGNOP
+                                                    Exp (32)
+                                                      Exp (32)
+                                                        ID: S23_L0
+                                                      DOT
+                                                      ID: S23_m5_i
+                                                  RP
+                                                MINUS
+                                                Exp (32)
+                                                  LP
+                                                  Exp (32)
+                                                    Exp (32)
+                                                      Exp (32)
+                                                        ID: S23_L0
+                                                      DOT
+                                                      ID: S23_m2_i
+                                                    RELOP
+                                                    Exp (32)
+                                                      Exp (32)
+                                                        ID: S23_L0
+                                                      DOT
+                                                      ID: S23_m2_i
+                                                  RP
+                                              SEMI
+                                            StmtList (33)
+                                              Stmt (33)
+                                                RETURN
+                                                Exp (33)
+                                                  Exp (33)
+                                                    LP
+                                                    Exp (33)
+                                                      Exp (33)
+                                                        Exp (33)
+                                                          ID: S23_L0
+                                                        DOT
+                                                        ID: S23_m6_i
+                                                      PLUS
+                                                      Exp (33)
+                                                        Exp (33)
+                                                          ID: S23_L0
+                                                        DOT
+                                                        ID: S23_m3_i
+                                                    RP
+                                                  RELOP
+                                                  Exp (33)
+                                                    MINUS
+                                                    Exp (33)
+                                                      FLOAT: 0.000001
+                                                SEMI
+            RC
+        ExtDefList (36)
+          ExtDef (36)
+            Specifier (36)
+              TYPE: int
+            FunDec (36)
+              ID: i_func_20
+              LP
+              VarList (36)
+                ParamDec (36)
+                  Specifier (36)
+                    StructSpecifier (36)
+                      STRUCT
+                      Tag (36)
+                        ID: S23
+                  VarDec (36)
+                    ID: i_func_20_S23_0
+                COMMA
+                VarList (36)
+                  ParamDec (36)
+                    Specifier (36)
+                      TYPE: int
+                    VarDec (36)
+                      ID: i_func_20_i_0
+                  COMMA
+                  VarList (36)
+                    ParamDec (36)
+                      Specifier (36)
+                        StructSpecifier (36)
+                          STRUCT
+                          Tag (36)
+                            ID: S23
+                      VarDec (36)
+                        ID: i_func_20_S23_1
+                    COMMA
+                    VarList (36)
+                      ParamDec (36)
+                        Specifier (36)
+                          StructSpecifier (36)
+                            STRUCT
+                            Tag (36)
+                              ID: S23
+                        VarDec (36)
+                          ID: i_func_20_S23_2
+                      COMMA
+                      VarList (36)
+                        ParamDec (36)
+                          Specifier (36)
+                            StructSpecifier (36)
+                              STRUCT
+                              Tag (36)
+                                ID: S23
+                          VarDec (36)
+                            ID: i_func_20_S23_3
+              RP
+            CompSt (36)
+              LC
+              StmtList (37)
+                Stmt (37)
+                  Exp (37)
+                    Exp (37)
+                      LP
+                      Exp (37)
+                        Exp (37)
+                          Exp (37)
+                            ID: i_func_20_S23_0
+                          DOT
+                          ID: S23_m3_i
+                        MINUS
+                        Exp (37)
+                          Exp (37)
+                            ID: i_func_20_S23_0
+                          DOT
+                          ID: S23_m2_i
+                      RP
+                    PLUS
+                    Exp (37)
+                      LP
+                      Exp (37)
+                        Exp (37)
+                          Exp (37)
+                            ID: i_func_20_S23_0
+                          DOT
+                          ID: S23_m3_i
+                        AND
+                        Exp (37)
+                          Exp (37)
+                            ID: i_func_20_S23_3
+                          DOT
+                          ID: S23_m6_i
+                      RP
+                  SEMI
+                StmtList (38)
+                  Stmt (38)
+                    Exp (38)
+                      Exp (38)
+                        ID: i_func_20_S23_1
+                      DOT
+                      ID: S23_m5_i
+                    SEMI
+                  StmtList (39)
+                    Stmt (39)
+                      Exp (39)
+                        Exp (39)
+                          LP
+                          Exp (39)
+                            Exp (39)
+                              Exp (39)
+                                ID: i_func_20_S23_2
+                              DOT
+                              ID: S23_m6_i
+                            MINUS
+                            Exp (39)
+                              Exp (39)
+                                ID: i_func_20_S23_0
+                              DOT
+                              ID: S23_m2_i
+                          RP
+                        DIV
+                        Exp (39)
+                          LP
+                          Exp (39)
+                            MINUS
+                            Exp (39)
+                              Exp (39)
+                                INT: 1770705936
+                              STAR
+                              Exp (39)
+                                Exp (39)
+                                  ID: i_func_20_S23_2
+                                DOT
+                                ID: S23_m2_i
+                          RP
+                      SEMI
+                    StmtList (40)
+                      Stmt (40)
+                        Exp (40)
+                          Exp (40)
+                            MINUS
+                            Exp (40)
+                              FLOAT: 657638084570000099547021312.000000
+                          RELOP
+                          Exp (40)
+                            LP
+                            Exp (40)
+                              Exp (40)
+                                Exp (40)
+                                  ID: i_func_20_S23_3
+                                DOT
+                                ID: S23_m0_i
+                              DIV
+                              Exp (40)
+                                Exp (40)
+                                  ID: i_func_20_S23_0
+                                DOT
+                                ID: S23_m0_i
+                            RP
+                        SEMI
+                      StmtList (41)
+                        Stmt (41)
+                          Exp (41)
+                            Exp (41)
+                              LP
+                              Exp (41)
+                                Exp (41)
+                                  Exp (41)
+                                    ID: i_func_20_S23_1
+                                  DOT
+                                  ID: S23_m0_i
+                                AND
+                                Exp (41)
+                                  Exp (41)
+                                    ID: i_func_20_S23_3
+                                  DOT
+                                  ID: S23_m0_i
+                              RP
+                            RELOP
+                            Exp (41)
+                              FLOAT: 0.000000
+                          SEMI
+                        StmtList (42)
+                          Stmt (42)
+                            Exp (42)
+                              Exp (42)
+                                Exp (42)
+                                  Exp (42)
+                                    ID: i_func_20_S23_3
+                                  DOT
+                                  ID: S23_m4_a1_a2_i
+                                LB
+                                Exp (42)
+                                  LP
+                                  Exp (42)
+                                    Exp (42)
+                                      Exp (42)
+                                        ID: i_func_20_S23_1
+                                      DOT
+                                      ID: S23_m6_i
+                                    RELOP
+                                    Exp (42)
+                                      Exp (42)
+                                        ID: i_func_20_S23_0
+                                      DOT
+                                      ID: S23_m6_i
+                                  RP
+                                RB
+                              LB
+                              Exp (42)
+                                LP
+                                Exp (42)
+                                  Exp (42)
+                                    Exp (42)
+                                      ID: i_func_20_S23_3
+                                    DOT
+                                    ID: S23_m0_i
+                                  STAR
+                                  Exp (42)
+                                    MINUS
+                                    Exp (42)
+                                      INT: 244543081
+                                RP
+                              RB
+                            SEMI
+                          StmtList (43)
+                            Stmt (43)
+                              RETURN
+                              Exp (43)
+                                Exp (43)
+                                  Exp (43)
+                                    ID: i_func_20_S23_3
+                                  DOT
+                                  ID: S23_m5_i
+                                ASSIGNOP
+                                Exp (43)
+                                  LP
+                                  Exp (43)
+                                    Exp (43)
+                                      Exp (43)
+                                        ID: i_func_20_S23_3
+                                      DOT
+                                      ID: S23_m5_i
+                                    PLUS
+                                    Exp (43)
+                                      Exp (43)
+                                        ID: i_func_20_S23_2
+                                      DOT
+                                      ID: S23_m6_i
+                                  RP
+                              SEMI
+              RC
+          ExtDefList (46)
+            ExtDef (46)
+              Specifier (46)
+                TYPE: int
+              FunDec (46)
+                ID: initialize_global_objects
+                LP
+                RP
+              CompSt (46)
+                LC
+                StmtList (47)
+                  Stmt (47)
+                    Exp (47)
+                      Exp (47)
+                        ID: i_G3
+                      ASSIGNOP
+                      Exp (47)
+                        Exp (47)
+                          MINUS
+                          Exp (47)
+                            INT: 1551383966
+                        RELOP
+                        Exp (47)
+                          INT: 1288434368
+                    SEMI
+                  StmtList (48)
+                    Stmt (48)
+                      RETURN
+                      Exp (48)
+                        INT: 0
+                      SEMI
+                RC
+            ExtDefList (51)
+              ExtDef (51)
+                Specifier (51)
+                  TYPE: int
+                FunDec (51)
+                  ID: main
+                  LP
+                  RP
+                CompSt (51)
+                  LC
+                  StmtList (52)
+                    Stmt (52)
+                      Exp (52)
+                        ID: initialize_global_objects
+                        LP
+                        RP
+                      SEMI
+                    StmtList (53)
+                      Stmt (53)
+                        RETURN
+                        Exp (53)
+                          INT: 0
+                        SEMI
+                  RC

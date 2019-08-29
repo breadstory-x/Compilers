@@ -1,0 +1,1008 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        StructSpecifier (1)
+          STRUCT
+          OptTag (1)
+            ID: S10
+          LC
+          DefList (2)
+            Def (2)
+              Specifier (2)
+                TYPE: int
+              DecList (2)
+                Dec (2)
+                  VarDec (2)
+                    ID: S10_m0_i
+              SEMI
+            DefList (3)
+              Def (3)
+                Specifier (3)
+                  TYPE: int
+                DecList (3)
+                  Dec (3)
+                    VarDec (3)
+                      ID: S10_m1_i
+                SEMI
+              DefList (4)
+                Def (4)
+                  Specifier (4)
+                    TYPE: int
+                  DecList (4)
+                    Dec (4)
+                      VarDec (4)
+                        VarDec (4)
+                          VarDec (4)
+                            ID: S10_m2_a2_a1_i
+                          LB
+                          INT: 2
+                          RB
+                        LB
+                        INT: 1
+                        RB
+                  SEMI
+          RC
+      SEMI
+    ExtDefList (7)
+      ExtDef (7)
+        Specifier (7)
+          StructSpecifier (7)
+            STRUCT
+            OptTag (7)
+              ID: S8
+            LC
+            DefList (8)
+              Def (8)
+                Specifier (8)
+                  TYPE: int
+                DecList (8)
+                  Dec (8)
+                    VarDec (8)
+                      VarDec (8)
+                        VarDec (8)
+                          VarDec (8)
+                            ID: S8_m0_a1_a1_a2_i
+                          LB
+                          INT: 1
+                          RB
+                        LB
+                        INT: 1
+                        RB
+                      LB
+                      INT: 2
+                      RB
+                SEMI
+              DefList (9)
+                Def (9)
+                  Specifier (9)
+                    TYPE: int
+                  DecList (9)
+                    Dec (9)
+                      VarDec (9)
+                        ID: S8_m1_i
+                  SEMI
+                DefList (10)
+                  Def (10)
+                    Specifier (10)
+                      TYPE: int
+                    DecList (10)
+                      Dec (10)
+                        VarDec (10)
+                          ID: S8_m2_i
+                    SEMI
+                  DefList (11)
+                    Def (11)
+                      Specifier (11)
+                        TYPE: int
+                      DecList (11)
+                        Dec (11)
+                          VarDec (11)
+                            VarDec (11)
+                              VarDec (11)
+                                ID: S8_m3_a1_a1_i
+                              LB
+                              INT: 1
+                              RB
+                            LB
+                            INT: 1
+                            RB
+                      SEMI
+                    DefList (12)
+                      Def (12)
+                        Specifier (12)
+                          TYPE: int
+                        DecList (12)
+                          Dec (12)
+                            VarDec (12)
+                              ID: S8_m4_i
+                        SEMI
+                      DefList (13)
+                        Def (13)
+                          Specifier (13)
+                            TYPE: int
+                          DecList (13)
+                            Dec (13)
+                              VarDec (13)
+                                ID: S8_m5_i
+                          SEMI
+            RC
+        SEMI
+      ExtDefList (16)
+        ExtDef (16)
+          Specifier (16)
+            StructSpecifier (16)
+              STRUCT
+              OptTag (16)
+                ID: S9
+              LC
+              DefList (17)
+                Def (17)
+                  Specifier (17)
+                    TYPE: int
+                  DecList (17)
+                    Dec (17)
+                      VarDec (17)
+                        ID: S9_m0_i
+                  SEMI
+                DefList (18)
+                  Def (18)
+                    Specifier (18)
+                      TYPE: int
+                    DecList (18)
+                      Dec (18)
+                        VarDec (18)
+                          ID: S9_m1_i
+                    SEMI
+                  DefList (19)
+                    Def (19)
+                      Specifier (19)
+                        TYPE: int
+                      DecList (19)
+                        Dec (19)
+                          VarDec (19)
+                            VarDec (19)
+                              VarDec (19)
+                                ID: S9_m2_a1_a1_i
+                              LB
+                              INT: 1
+                              RB
+                            LB
+                            INT: 1
+                            RB
+                      SEMI
+              RC
+          SEMI
+        ExtDefList (22)
+          ExtDef (22)
+            Specifier (22)
+              StructSpecifier (22)
+                STRUCT
+                OptTag (22)
+                  ID: S7
+                LC
+                DefList (23)
+                  Def (23)
+                    Specifier (23)
+                      TYPE: int
+                    DecList (23)
+                      Dec (23)
+                        VarDec (23)
+                          VarDec (23)
+                            ID: S7_m0_a1_i
+                          LB
+                          INT: 1
+                          RB
+                    SEMI
+                  DefList (24)
+                    Def (24)
+                      Specifier (24)
+                        TYPE: int
+                      DecList (24)
+                        Dec (24)
+                          VarDec (24)
+                            VarDec (24)
+                              ID: S7_m1_a2_i
+                            LB
+                            INT: 2
+                            RB
+                      SEMI
+                    DefList (25)
+                      Def (25)
+                        Specifier (25)
+                          TYPE: int
+                        DecList (25)
+                          Dec (25)
+                            VarDec (25)
+                              ID: S7_m2_i
+                        SEMI
+                      DefList (26)
+                        Def (26)
+                          Specifier (26)
+                            TYPE: int
+                          DecList (26)
+                            Dec (26)
+                              VarDec (26)
+                                VarDec (26)
+                                  VarDec (26)
+                                    ID: S7_m3_a1_a2_i
+                                  LB
+                                  INT: 1
+                                  RB
+                                LB
+                                INT: 2
+                                RB
+                          SEMI
+                        DefList (27)
+                          Def (27)
+                            Specifier (27)
+                              TYPE: int
+                            DecList (27)
+                              Dec (27)
+                                VarDec (27)
+                                  ID: S7_m4_i
+                            SEMI
+                          DefList (28)
+                            Def (28)
+                              Specifier (28)
+                                TYPE: int
+                              DecList (28)
+                                Dec (28)
+                                  VarDec (28)
+                                    ID: S7_m5_i
+                              SEMI
+                            DefList (29)
+                              Def (29)
+                                Specifier (29)
+                                  TYPE: int
+                                DecList (29)
+                                  Dec (29)
+                                    VarDec (29)
+                                      ID: S7_m6_i
+                                SEMI
+                              DefList (30)
+                                Def (30)
+                                  Specifier (30)
+                                    TYPE: int
+                                  DecList (30)
+                                    Dec (30)
+                                      VarDec (30)
+                                        ID: S7_m7_i
+                                  SEMI
+                                DefList (31)
+                                  Def (31)
+                                    Specifier (31)
+                                      TYPE: int
+                                    DecList (31)
+                                      Dec (31)
+                                        VarDec (31)
+                                          VarDec (31)
+                                            VarDec (31)
+                                              ID: S7_m8_a1_a2_i
+                                            LB
+                                            INT: 1
+                                            RB
+                                          LB
+                                          INT: 2
+                                          RB
+                                    SEMI
+                RC
+            SEMI
+          ExtDefList (34)
+            ExtDef (34)
+              Specifier (34)
+                TYPE: int
+              ExtDecList (34)
+                VarDec (34)
+                  VarDec (34)
+                    VarDec (34)
+                      ID: a2_a1_i_G0
+                    LB
+                    INT: 2
+                    RB
+                  LB
+                  INT: 1
+                  RB
+              SEMI
+            ExtDefList (38)
+              ExtDef (38)
+                Specifier (38)
+                  TYPE: int
+                FunDec (38)
+                  ID: i_func_5
+                  LP
+                  VarList (38)
+                    ParamDec (38)
+                      Specifier (38)
+                        TYPE: int
+                      VarDec (38)
+                        ID: i_func_5_i_0
+                  RP
+                CompSt (38)
+                  LC
+                  DefList (39)
+                    Def (39)
+                      Specifier (39)
+                        StructSpecifier (39)
+                          STRUCT
+                          Tag (39)
+                            ID: S8
+                      DecList (39)
+                        Dec (39)
+                          VarDec (39)
+                            ID: S8_L0
+                      SEMI
+                    DefList (40)
+                      Def (40)
+                        Specifier (40)
+                          StructSpecifier (40)
+                            STRUCT
+                            Tag (40)
+                              ID: S10
+                        DecList (40)
+                          Dec (40)
+                            VarDec (40)
+                              ID: S10_L0
+                        SEMI
+                  StmtList (41)
+                    Stmt (41)
+                      Exp (41)
+                        Exp (41)
+                          Exp (41)
+                            ID: S8_L0
+                          DOT
+                          ID: S8_m5_i
+                        ASSIGNOP
+                        Exp (41)
+                          MINUS
+                          Exp (41)
+                            INT: 1223569889
+                      SEMI
+                    StmtList (42)
+                      Stmt (42)
+                        Exp (42)
+                          Exp (42)
+                            Exp (42)
+                              ID: S8_L0
+                            DOT
+                            ID: S8_m4_i
+                          ASSIGNOP
+                          Exp (42)
+                            MINUS
+                            Exp (42)
+                              FLOAT: 0.000000
+                        SEMI
+                      StmtList (43)
+                        Stmt (43)
+                          Exp (43)
+                            Exp (43)
+                              Exp (43)
+                                Exp (43)
+                                  Exp (43)
+                                    ID: S8_L0
+                                  DOT
+                                  ID: S8_m3_a1_a1_i
+                                LB
+                                Exp (43)
+                                  INT: 0
+                                RB
+                              LB
+                              Exp (43)
+                                INT: 0
+                              RB
+                            ASSIGNOP
+                            Exp (43)
+                              MINUS
+                              Exp (43)
+                                FLOAT: 45096060.000000
+                          SEMI
+                        StmtList (44)
+                          Stmt (44)
+                            Exp (44)
+                              Exp (44)
+                                Exp (44)
+                                  ID: S8_L0
+                                DOT
+                                ID: S8_m2_i
+                              ASSIGNOP
+                              Exp (44)
+                                INT: 134050631
+                            SEMI
+                          StmtList (45)
+                            Stmt (45)
+                              Exp (45)
+                                Exp (45)
+                                  Exp (45)
+                                    ID: S8_L0
+                                  DOT
+                                  ID: S8_m1_i
+                                ASSIGNOP
+                                Exp (45)
+                                  MINUS
+                                  Exp (45)
+                                    FLOAT: 0.000000
+                              SEMI
+                            StmtList (46)
+                              Stmt (46)
+                                Exp (46)
+                                  Exp (46)
+                                    Exp (46)
+                                      Exp (46)
+                                        Exp (46)
+                                          Exp (46)
+                                            ID: S8_L0
+                                          DOT
+                                          ID: S8_m0_a1_a1_a2_i
+                                        LB
+                                        Exp (46)
+                                          INT: 0
+                                        RB
+                                      LB
+                                      Exp (46)
+                                        INT: 0
+                                      RB
+                                    LB
+                                    Exp (46)
+                                      INT: 1
+                                    RB
+                                  ASSIGNOP
+                                  Exp (46)
+                                    FLOAT: 0.000000
+                                SEMI
+                              StmtList (47)
+                                Stmt (47)
+                                  Exp (47)
+                                    Exp (47)
+                                      Exp (47)
+                                        Exp (47)
+                                          Exp (47)
+                                            Exp (47)
+                                              ID: S8_L0
+                                            DOT
+                                            ID: S8_m0_a1_a1_a2_i
+                                          LB
+                                          Exp (47)
+                                            INT: 0
+                                          RB
+                                        LB
+                                        Exp (47)
+                                          INT: 0
+                                        RB
+                                      LB
+                                      Exp (47)
+                                        INT: 0
+                                      RB
+                                    ASSIGNOP
+                                    Exp (47)
+                                      MINUS
+                                      Exp (47)
+                                        FLOAT: 87993115126448259072.000000
+                                  SEMI
+                                StmtList (48)
+                                  Stmt (48)
+                                    Exp (48)
+                                      Exp (48)
+                                        Exp (48)
+                                          Exp (48)
+                                            Exp (48)
+                                              ID: S10_L0
+                                            DOT
+                                            ID: S10_m2_a2_a1_i
+                                          LB
+                                          Exp (48)
+                                            INT: 1
+                                          RB
+                                        LB
+                                        Exp (48)
+                                          INT: 0
+                                        RB
+                                      ASSIGNOP
+                                      Exp (48)
+                                        Exp (48)
+                                          MINUS
+                                          Exp (48)
+                                            INT: 1335035789
+                                        OR
+                                        Exp (48)
+                                          INT: 365093031
+                                    SEMI
+                                  StmtList (49)
+                                    Stmt (49)
+                                      Exp (49)
+                                        Exp (49)
+                                          Exp (49)
+                                            Exp (49)
+                                              Exp (49)
+                                                ID: S10_L0
+                                              DOT
+                                              ID: S10_m2_a2_a1_i
+                                            LB
+                                            Exp (49)
+                                              INT: 0
+                                            RB
+                                          LB
+                                          Exp (49)
+                                            INT: 0
+                                          RB
+                                        ASSIGNOP
+                                        Exp (49)
+                                          Exp (49)
+                                            INT: 1216786654
+                                          MINUS
+                                          Exp (49)
+                                            INT: 1764523044
+                                      SEMI
+                                    StmtList (50)
+                                      Stmt (50)
+                                        Exp (50)
+                                          Exp (50)
+                                            Exp (50)
+                                              ID: S10_L0
+                                            DOT
+                                            ID: S10_m1_i
+                                          ASSIGNOP
+                                          Exp (50)
+                                            Exp (50)
+                                              INT: 1566079318
+                                            PLUS
+                                            Exp (50)
+                                              INT: 1966015988
+                                        SEMI
+                                      StmtList (51)
+                                        Stmt (51)
+                                          Exp (51)
+                                            Exp (51)
+                                              Exp (51)
+                                                ID: S10_L0
+                                              DOT
+                                              ID: S10_m0_i
+                                            ASSIGNOP
+                                            Exp (51)
+                                              MINUS
+                                              Exp (51)
+                                                Exp (51)
+                                                  INT: 1377772911
+                                                DIV
+                                                Exp (51)
+                                                  INT: 521247763
+                                          SEMI
+                                        StmtList (52)
+                                          Stmt (52)
+                                            Exp (52)
+                                              Exp (52)
+                                                Exp (52)
+                                                  Exp (52)
+                                                    ID: a2_a1_i_G0
+                                                  LB
+                                                  Exp (52)
+                                                    Exp (52)
+                                                      ID: S8_L0
+                                                    DOT
+                                                    ID: S8_m4_i
+                                                  RB
+                                                LB
+                                                Exp (52)
+                                                  LP
+                                                  Exp (52)
+                                                    NOT
+                                                    Exp (52)
+                                                      Exp (52)
+                                                        ID: S8_L0
+                                                      DOT
+                                                      ID: S8_m2_i
+                                                  RP
+                                                RB
+                                              ASSIGNOP
+                                              Exp (52)
+                                                LP
+                                                Exp (52)
+                                                  Exp (52)
+                                                    Exp (52)
+                                                      ID: S8_L0
+                                                    DOT
+                                                    ID: S8_m1_i
+                                                  AND
+                                                  Exp (52)
+                                                    Exp (52)
+                                                      ID: S8_L0
+                                                    DOT
+                                                    ID: S8_m1_i
+                                                RP
+                                            SEMI
+                                          StmtList (53)
+                                            Stmt (53)
+                                              Exp (53)
+                                                Exp (53)
+                                                  LP
+                                                  Exp (53)
+                                                    Exp (53)
+                                                      Exp (53)
+                                                        ID: S8_L0
+                                                      DOT
+                                                      ID: S8_m1_i
+                                                    RELOP
+                                                    Exp (53)
+                                                      MINUS
+                                                      Exp (53)
+                                                        FLOAT: 0.000000
+                                                  RP
+                                                RELOP
+                                                Exp (53)
+                                                  LP
+                                                  Exp (53)
+                                                    Exp (53)
+                                                      Exp (53)
+                                                        ID: S8_L0
+                                                      DOT
+                                                      ID: S8_m1_i
+                                                    RELOP
+                                                    Exp (53)
+                                                      Exp (53)
+                                                        ID: S8_L0
+                                                      DOT
+                                                      ID: S8_m1_i
+                                                  RP
+                                              SEMI
+                                            StmtList (54)
+                                              Stmt (54)
+                                                RETURN
+                                                Exp (54)
+                                                  Exp (54)
+                                                    Exp (54)
+                                                      Exp (54)
+                                                        ID: a2_a1_i_G0
+                                                      LB
+                                                      Exp (54)
+                                                        LP
+                                                        Exp (54)
+                                                          Exp (54)
+                                                            Exp (54)
+                                                              ID: S8_L0
+                                                            DOT
+                                                            ID: S8_m1_i
+                                                          PLUS
+                                                          Exp (54)
+                                                            Exp (54)
+                                                              ID: S8_L0
+                                                            DOT
+                                                            ID: S8_m1_i
+                                                        RP
+                                                      RB
+                                                    LB
+                                                    Exp (54)
+                                                      ID: i_func_5
+                                                      LP
+                                                      Args (54)
+                                                        Exp (54)
+                                                          Exp (54)
+                                                            ID: S8_L0
+                                                          DOT
+                                                          ID: S8_m1_i
+                                                      RP
+                                                    RB
+                                                  ASSIGNOP
+                                                  Exp (54)
+                                                    LP
+                                                    Exp (54)
+                                                      NOT
+                                                      Exp (54)
+                                                        MINUS
+                                                        Exp (54)
+                                                          FLOAT: 3734.568604
+                                                    RP
+                                                SEMI
+                  RC
+              ExtDefList (57)
+                ExtDef (57)
+                  Specifier (57)
+                    TYPE: int
+                  FunDec (57)
+                    ID: top_caller
+                    LP
+                    RP
+                  CompSt (57)
+                    LC
+                    DefList (58)
+                      Def (58)
+                        Specifier (58)
+                          StructSpecifier (58)
+                            STRUCT
+                            Tag (58)
+                              ID: S10
+                        DecList (58)
+                          Dec (58)
+                            VarDec (58)
+                              ID: S10_L1
+                        SEMI
+                      DefList (59)
+                        Def (59)
+                          Specifier (59)
+                            StructSpecifier (59)
+                              STRUCT
+                              Tag (59)
+                                ID: S9
+                          DecList (59)
+                            Dec (59)
+                              VarDec (59)
+                                ID: S9_L0
+                          SEMI
+                    StmtList (60)
+                      Stmt (60)
+                        Exp (60)
+                          Exp (60)
+                            Exp (60)
+                              Exp (60)
+                                Exp (60)
+                                  ID: S10_L1
+                                DOT
+                                ID: S10_m2_a2_a1_i
+                              LB
+                              Exp (60)
+                                INT: 1
+                              RB
+                            LB
+                            Exp (60)
+                              INT: 0
+                            RB
+                          ASSIGNOP
+                          Exp (60)
+                            INT: 1550551585
+                        SEMI
+                      StmtList (61)
+                        Stmt (61)
+                          Exp (61)
+                            Exp (61)
+                              Exp (61)
+                                Exp (61)
+                                  Exp (61)
+                                    ID: S10_L1
+                                  DOT
+                                  ID: S10_m2_a2_a1_i
+                                LB
+                                Exp (61)
+                                  INT: 0
+                                RB
+                              LB
+                              Exp (61)
+                                INT: 0
+                              RB
+                            ASSIGNOP
+                            Exp (61)
+                              INT: 419805146
+                          SEMI
+                        StmtList (62)
+                          Stmt (62)
+                            Exp (62)
+                              Exp (62)
+                                Exp (62)
+                                  ID: S10_L1
+                                DOT
+                                ID: S10_m1_i
+                              ASSIGNOP
+                              Exp (62)
+                                FLOAT: 33244998933676032.000000
+                            SEMI
+                          StmtList (63)
+                            Stmt (63)
+                              Exp (63)
+                                Exp (63)
+                                  Exp (63)
+                                    ID: S10_L1
+                                  DOT
+                                  ID: S10_m0_i
+                                ASSIGNOP
+                                Exp (63)
+                                  MINUS
+                                  Exp (63)
+                                    FLOAT: 136703866659213935342483376560024846336.000000
+                              SEMI
+                            StmtList (64)
+                              Stmt (64)
+                                Exp (64)
+                                  Exp (64)
+                                    Exp (64)
+                                      Exp (64)
+                                        Exp (64)
+                                          ID: S9_L0
+                                        DOT
+                                        ID: S9_m2_a1_a1_i
+                                      LB
+                                      Exp (64)
+                                        INT: 0
+                                      RB
+                                    LB
+                                    Exp (64)
+                                      INT: 0
+                                    RB
+                                  ASSIGNOP
+                                  Exp (64)
+                                    Exp (64)
+                                      INT: 1811652782
+                                    PLUS
+                                    Exp (64)
+                                      MINUS
+                                      Exp (64)
+                                        INT: 863923574
+                                SEMI
+                              StmtList (65)
+                                Stmt (65)
+                                  Exp (65)
+                                    Exp (65)
+                                      Exp (65)
+                                        ID: S9_L0
+                                      DOT
+                                      ID: S9_m1_i
+                                    ASSIGNOP
+                                    Exp (65)
+                                      Exp (65)
+                                        MINUS
+                                        Exp (65)
+                                          INT: 882005976
+                                      MINUS
+                                      Exp (65)
+                                        MINUS
+                                        Exp (65)
+                                          INT: 323882968
+                                  SEMI
+                                StmtList (66)
+                                  Stmt (66)
+                                    Exp (66)
+                                      Exp (66)
+                                        Exp (66)
+                                          ID: S9_L0
+                                        DOT
+                                        ID: S9_m0_i
+                                      ASSIGNOP
+                                      Exp (66)
+                                        Exp (66)
+                                          MINUS
+                                          Exp (66)
+                                            INT: 1287849243
+                                        RELOP
+                                        Exp (66)
+                                          INT: 1012499863
+                                    SEMI
+                                  StmtList (67)
+                                    Stmt (67)
+                                      Exp (67)
+                                        Exp (67)
+                                          LP
+                                          Exp (67)
+                                            Exp (67)
+                                              Exp (67)
+                                                ID: S10_L1
+                                              DOT
+                                              ID: S10_m0_i
+                                            OR
+                                            Exp (67)
+                                              MINUS
+                                              Exp (67)
+                                                INT: 1299002480
+                                          RP
+                                        RELOP
+                                        Exp (67)
+                                          LP
+                                          Exp (67)
+                                            Exp (67)
+                                              Exp (67)
+                                                ID: S10_L1
+                                              DOT
+                                              ID: S10_m0_i
+                                            RELOP
+                                            Exp (67)
+                                              Exp (67)
+                                                ID: S10_L1
+                                              DOT
+                                              ID: S10_m0_i
+                                          RP
+                                      SEMI
+                                    StmtList (68)
+                                      Stmt (68)
+                                        RETURN
+                                        Exp (68)
+                                          Exp (68)
+                                            ID: top_caller
+                                            LP
+                                            RP
+                                          RELOP
+                                          Exp (68)
+                                            LP
+                                            Exp (68)
+                                              Exp (68)
+                                                Exp (68)
+                                                  ID: S10_L1
+                                                DOT
+                                                ID: S10_m0_i
+                                              ASSIGNOP
+                                              Exp (68)
+                                                FLOAT: 3074446461919159123968.000000
+                                            RP
+                                        SEMI
+                    RC
+                ExtDefList (71)
+                  ExtDef (71)
+                    Specifier (71)
+                      TYPE: int
+                    FunDec (71)
+                      ID: initialize_global_objects
+                      LP
+                      RP
+                    CompSt (71)
+                      LC
+                      StmtList (72)
+                        Stmt (72)
+                          Exp (72)
+                            Exp (72)
+                              Exp (72)
+                                Exp (72)
+                                  ID: a2_a1_i_G0
+                                LB
+                                Exp (72)
+                                  INT: 1
+                                RB
+                              LB
+                              Exp (72)
+                                INT: 0
+                              RB
+                            ASSIGNOP
+                            Exp (72)
+                              Exp (72)
+                                INT: 960973937
+                              RELOP
+                              Exp (72)
+                                FLOAT: 138214614499328.000000
+                          SEMI
+                        StmtList (73)
+                          Stmt (73)
+                            Exp (73)
+                              Exp (73)
+                                Exp (73)
+                                  Exp (73)
+                                    ID: a2_a1_i_G0
+                                  LB
+                                  Exp (73)
+                                    INT: 0
+                                  RB
+                                LB
+                                Exp (73)
+                                  INT: 0
+                                RB
+                              ASSIGNOP
+                              Exp (73)
+                                Exp (73)
+                                  INT: 2125281711
+                                MINUS
+                                Exp (73)
+                                  INT: 894739897
+                            SEMI
+                          StmtList (74)
+                            Stmt (74)
+                              RETURN
+                              Exp (74)
+                                INT: 0
+                              SEMI
+                      RC
+                  ExtDefList (77)
+                    ExtDef (77)
+                      Specifier (77)
+                        TYPE: int
+                      FunDec (77)
+                        ID: main
+                        LP
+                        RP
+                      CompSt (77)
+                        LC
+                        StmtList (78)
+                          Stmt (78)
+                            Exp (78)
+                              ID: initialize_global_objects
+                              LP
+                              RP
+                            SEMI
+                          StmtList (79)
+                            Stmt (79)
+                              RETURN
+                              Exp (79)
+                                INT: 0
+                              SEMI
+                        RC
